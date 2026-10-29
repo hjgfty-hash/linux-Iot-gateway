@@ -1,0 +1,4 @@
+iot_server
+student.db
+*.o
+*.log
